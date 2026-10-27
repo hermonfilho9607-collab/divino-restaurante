@@ -1,0 +1,5 @@
+# Fotos originais (versões otimizadas ficam em assets/)
+*.png
+*.jpg
+!assets/*.png
+.claude/
